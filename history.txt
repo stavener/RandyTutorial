@@ -1,0 +1,35 @@
+    1  python
+    2  python3
+    3  ls
+    4  pwd
+    5  cd /mnt
+    6  ls
+    7  cd c
+    8  ls
+    9  cd Users
+   10  ls
+   11  cd stavener
+   12  ls
+   13  cd Downloads/
+   14  ls
+   15  ls min*
+   16  ls *.sh
+   17  cp Miniconda3-latest-Linux-x86_64.sh /home/stavener
+   18  ls
+   19  cd
+   20  ls
+   21  pwd
+   22  Miniconda3-latest-Linux-x86_64.sh
+   23  ./Miniconda3-latest-Linux-x86_64.sh 
+   24  pip install --help
+   25  python -m venv venv
+   26  . venv/bin/activate
+   27  code requirements.txt
+   28  git add requirements.txt 
+   29  git commit -a
+   30  git push 
+   31  which pip
+   32  pip install -r requirements.txt 
+   33  git pull
+   34  history
+   35  history > history.txt
