@@ -1,0 +1,70 @@
+    1  python
+    2  python3
+    3  ls
+    4  pwd
+    5  cd /mnt
+    6  ls
+    7  cd c
+    8  ls
+    9  cd Users
+   10  ls
+   11  cd stavener
+   12  ls
+   13  cd Downloads/
+   14  ls
+   15  ls min*
+   16  ls *.sh
+   17  cp Miniconda3-latest-Linux-x86_64.sh /home/stavener
+   18  ls
+   19  cd
+   20  ls
+   21  pwd
+   22  Miniconda3-latest-Linux-x86_64.sh
+   23  ./Miniconda3-latest-Linux-x86_64.sh 
+   24  which python
+   25  python
+   26  /usr/bin/python3
+   27  python -m venv venv
+   28  ls
+   29  which python
+   30  . venv/bin/activate
+   31  which python
+   32  vim ls
+   33  ls
+   34  chmod 755 ls
+   35  ls
+   36  ./ls
+   37  ls
+   38  ls -l ls
+   39  rm ls
+   40  alias rm rm -i
+   41  ls
+   42  . venv/bin/deactivate
+   43  lls
+   44  ls venv
+   45  ls venv/bin
+   46  rm -rf venv
+   47  git clone https://github.com/stavener/RandyTutorial
+   48  cd RandyTutorial/
+   49  ls
+   50  vim README
+   51  git add README
+   52  git commit -a
+   53  git config --global user.email "simon.tavener@gmail.com"
+   54  git commit -a
+   55  git push
+   56  whoami
+   57  pwd
+   58  apt install gh
+   59  sudo apt install gh
+   60  sudo apt update
+   61  sudo apt install gh
+   62  gh auth
+   63  gh auth login
+   64  git push
+   65  less README 
+   66  git pull README
+   67  git pull
+   68  less README 
+   69  history
+   70  history > history2.txt
